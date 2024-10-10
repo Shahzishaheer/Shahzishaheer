@@ -1,5 +1,10 @@
 # <H2>Hi,👋 I'm Muhammad Shaheer</H2>
-  <br>   "I’m currently working on the MERN stack (MongoDB, Express, React, Node.js) and building Progressive Web Applications (PWA) 🌐🚀."<br><br> "I’m looking to collaborate on open-source projects, with a particular focus on PWA projects 🤝💻."<br><br>   "I’m looking for help with refining my skills in advanced backend development, especially in optimizing server performance and database management. Any tips or resources would be appreciated! 🔧📊"<br><br>  "I’m currently learning more about the MERN stack and how to optimize web applications for performance and scalability 📚⚙️."<br>   "Ask me about full-stack development, creating file upload components in React, and using AI for land degradation detection and alert systems 💻🌍."<br>
+  🚀 <strong>Working on:</strong> MERN stack & building PWAs.<br><br>
+🤝 <strong>Collaborating on:</strong> Open-source PWA projects.<br><br>
+🔧 <strong>Need help with:</strong> Optimizing backend & database management.<br><br>
+📚 <strong>Learning:</strong> MERN stack optimization & performance scaling.<br><br>
+💻 <strong>Ask me about:</strong> Full-stack development, React file uploads, and AI for land degradation alerts.
+
 
 
 ## 🌐 Socials:
