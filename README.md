@@ -5,9 +5,7 @@
 📚 <strong>Learning:</strong> MERN stack optimization & performance scaling.<br><br>
 💻 <strong>Ask me about:</strong> Full-stack development, React file uploads, and AI for land degradation alerts.
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=ShahziShaheer&label=Profile%20Views&color=9&icon=0&pretty=false" />
-</a>
+  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/callmeshahzi/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-shaheer-4ab71423a/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Shahzi-Shaheer) 
