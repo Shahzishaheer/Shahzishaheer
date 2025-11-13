@@ -1,27 +1,57 @@
-# <H2>Hi,👋 I'm Muhammad Shaheer</H2>
-  🚀 <strong>Working on:</strong> MERN stack & building PWAs.<br><br>
-🤝 <strong>Collaborating on:</strong> Open-source PWA projects.<br><br>
-🔧 <strong>Need help with:</strong> Optimizing backend & database management.<br><br>
-📚 <strong>Learning:</strong> MERN stack optimization & performance scaling.<br><br>
-💻 <strong>Ask me about:</strong> Full-stack development, React file uploads, and AI for land degradation alerts.
+# Shahzishaheer 👋
 
-  
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/callmeshahzi/?hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-shaheer-4ab71423a/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Shahzi-Shaheer) 
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
- ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shahzishaheer&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shahzishaheer&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzishaheer&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shahzishaheer&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Hi — I'm Shahzi Shaheer, a detail-oriented developer who builds clean, maintainable, and user-focused software. I enjoy solving real-world problems using modern web technologies, collaborative engineering practices, and great design.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shahzishaheer&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+- Full-stack developer with a passion for building scalable web applications and delightful user experiences.
+- Strong foundation in JavaScript/TypeScript, modern front-end frameworks, and backend services.
+- I value readable code, testable systems, and continuous learning.
+
+---
+
+## Areas of Expertise
+- Web Development: React, Next.js, Vue, HTML5, CSS3, Tailwind
+- Backend: Node.js, Express, REST APIs,
+- Databases & Storage: PostgreSQL, MongoDB, Supabase,Firebase
+- Tooling & DevOps: Git, Docker, CI/CD, GitHub Actions
+  
+
+---
+
+## Highlights
+- Built polished user interfaces with focus on accessibility and responsive design.
+- Delivered backend services designed for reliability and easy maintenance.
+- Experienced in collaborating with cross-functional teams and shipping production features.
+
+---
+
+## Projects & What I Build
+- Portfolio and experimental projects showcasing modern front-end patterns and performance optimizations.
+- APIs and small services focused on developer ergonomics and robust error handling.
+- If you'd like specific project links or demos added here, tell me which repos to highlight and I’ll include them.
+
+---
+
+## Languages & Tools
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzishaheer&layout=compact&theme=default)](https://github.com/Shahzishaheer)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzishaheer&show_icons=true&theme=default)](https://github.com/Shahzishaheer)
+
+---
+
+## How I Work
+- Communicate early and often — prefer short iterations, feature branches, and clear PR descriptions.
+- Prioritize user value and test coverage before optimization.
+- Open to pairing, code reviews, and mentoring.
+
+---
+
+## Let's Connect
+- GitHub: https://github.com/Shahzishaheer
+- LinkedIn: (add your LinkedIn URL)
+- Email: (add your preferred contact)
+
+---
+
+Thank you for visiting — I’m always open to collaboration, interesting projects, and learning opportunities. Feel free to reach out! 🚀
