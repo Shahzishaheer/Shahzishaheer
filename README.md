@@ -39,9 +39,8 @@ Hi — I'm Shahzi Shaheer, a detail-oriented developer passionate about building
 ---
 
 ## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzishaheer&layout=compact&theme=radical)](https://github.com/Shahzishaheer)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzishaheer&show_icons=true&theme=radical)](https://github.com/Shahzishaheer)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzishaheer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzishaheer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## How I Work
