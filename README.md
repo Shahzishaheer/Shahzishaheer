@@ -1,3 +1,5 @@
+![83b809857acd41a7bad4935b4734f9fc](https://github.com/user-attachments/assets/02f7be32-0de5-4876-b2ea-2a5b00443b8d)
+
 # Shahzishaheer 👋
 
 Hi — I'm Shahzi Shaheer, a detail-oriented developer passionate about building clean, maintainable, and user-focused software. I enjoy solving real-world problems using modern web technologies, collaborative engineering practices, and great design.
