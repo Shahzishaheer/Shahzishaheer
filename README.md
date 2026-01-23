@@ -40,10 +40,17 @@ Hi — I'm Shahzi Shaheer, a detail-oriented developer passionate about building
 
 ---
 
-## GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahzishaheer&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shahzishaheer&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
----
+## :bar_chart: GitHub Stats
+
+
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## How I Work
 - Communicate early and often — prefer short iterations, feature branches, and clear PR descriptions.
